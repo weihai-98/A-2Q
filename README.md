@@ -126,4 +126,4 @@ python lr_gat_mnist.py --lr_quant_scale_fea 1e-2 --lr_quant_scale_weight 1e-3 --
 python lr_gcn_zinc_bit.py --a_loss 1e-2 --lr_quant_scale_fea 1e-2 --lr_quant_scale_xw 5e-2 --lr_quant_scale_weight 1e-3 --lr_quant_bit_fea 1e-3 
 ``` 
 
-#Citing this Work
+## Citing this Work
