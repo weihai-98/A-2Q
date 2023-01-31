@@ -5,16 +5,27 @@ We first list the dependencies of our code and then provide the commands to run 
 ## Dependencies
 The dependencies of our experiments are:
 `Python : 3.6.13`
+
 `Pytorch : 1.8.0`
+
 `CUDA : 10.2`
+
 `Torch Geometric : 2.0.3`
+
 `Torch Cluster : 1.5.9`
+
 `Torch Scatter : 2.0.8`
+
 `Torch Sparse : 0.6.10`
+
 `Torch Spline Conv : 1.2.1`
+
 `ogb : 1.3.3`
+
 `Numpy : 1.19.2`
+
 `Scikit Learn : 0.24.2`
+
 `Matplotlib : 3.3.4`
 
 ## Train command
