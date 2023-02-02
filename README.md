@@ -128,12 +128,19 @@ python lr_gcn_zinc_bit.py --a_loss 1e-2 --lr_quant_scale_fea 1e-2 --lr_quant_sca
 
 ## Citing this Work
 ```bash
-@inproceedings{\\
-zhu2023rm,\\
-title={\${\textbackslash}rm A{\textasciicircum}2Q\$: Aggregation-Aware Quantization for Graph Neural Networks},\\
-author={Zeyu Zhu and Fanrong Li and Zitao Mo and Qinghao Hu and Gang Li and Zejian Liu and Xiaoyao Liang and Jian Cheng},\\
-booktitle={International Conference on Learning Representations},\\
-year={2023},\\
-url={https://openreview.net/forum?id=7L2mgi0TNEP}\\
+@inproceedings{
+
+zhu2023rm,
+
+title={\${\textbackslash}rm A{\textasciicircum}2Q\$: Aggregation-Aware Quantization for Graph Neural Networks},
+
+author={Zeyu Zhu and Fanrong Li and Zitao Mo and Qinghao Hu and Gang Li and Zejian Liu and Xiaoyao Liang and Jian Cheng},
+
+booktitle={International Conference on Learning Representations},
+
+year={2023},
+
+url={https://openreview.net/forum?id=7L2mgi0TNEP}
+
 }
 ```
