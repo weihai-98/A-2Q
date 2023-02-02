@@ -1,5 +1,5 @@
-# A^2Q method
-Dear readers, we have provided the source code to reproduce the results of our paper. Due to time constraints, we first provide the code for the main experimental section (i.e., Section 4.2 and Section 4.3) in the main text to reproduce the results reported in our work. However, the code for the ablation experiments has not yet been organized. Therefore, the other code used in our paper will soon be provided. 
+# A^2Q
+We have provided the source code to reproduce the results of our paper **$\rm{A^2Q}$: Aggregation-Aware Quantization for Graph Neural Networks**. Due to time constraints, we first provide the code for the main experimental section (i.e., Section 4.2 and Section 4.3) in the main text to reproduce the results reported in our work. The code for the ablation experiments has not yet been organized. Therefore, the other code used in our paper will soon be provided. 
 We first list the dependencies of our code and then provide the commands to run the experiments mentioned in our main text.
 
 ## Dependencies
