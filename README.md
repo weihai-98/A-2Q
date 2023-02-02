@@ -35,7 +35,7 @@ The `--path2dataset` is the path to dataset directory, the `--check_folder` is t
 results of the model during training process. You can add these arguments according to your needs.
 The train commands are as follow.
 
-### Node-level
+#### Node-level
 
 ---GCN-Cora---
 ```bash
@@ -82,7 +82,7 @@ python gat_nc_lsb.py --lr_quant_scale_fea 0.005 --lr_quant_scale_weight 0.001 --
 python gcn_ogb_arxiv.py --lr_quant_scale_fea 1e-2 --lr_quant_scale_weight 1e-3 --lr_quant_bit_fea 1e-2 --a_loss 1e-4 --dataset_name ogbn-arxiv
 ```
 
-### Graph-level
+#### Graph-level
 
 ---GIN-REDDIT-BINARY---
 ```bash
@@ -127,3 +127,11 @@ python lr_gcn_zinc_bit.py --a_loss 1e-2 --lr_quant_scale_fea 1e-2 --lr_quant_sca
 ``` 
 
 ## Citing this Work
+@inproceedings{
+zhu2023rm,
+title={\${\textbackslash}rm A{\textasciicircum}2Q\$: Aggregation-Aware Quantization for Graph Neural Networks},
+author={Zeyu Zhu and Fanrong Li and Zitao Mo and Qinghao Hu and Gang Li and Zejian Liu and Xiaoyao Liang and Jian Cheng},
+booktitle={International Conference on Learning Representations},
+year={2023},
+url={https://openreview.net/forum?id=7L2mgi0TNEP}
+}
